@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.bakri {
+    width: 150px;
+}
+
+.card {
+    border: 1px dotted blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 400px;
+    border-bottom: 6px #d8cefe solid;
+    text-decoration-color: #2b2839;
+    background-color: #ddebf8;
+    margin: 0 auto;
+}
